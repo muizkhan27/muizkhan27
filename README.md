@@ -1,5 +1,19 @@
 # 💫 About Me:
 <p align="center"><br>  <img src="https://capsule-render.vercel.app/api?text=Hello World 🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/><br></p>
+<h1 align="center">Hi 👋, I'm Muiz khan</h1>
+<h3 align="center">A Versatile Software Engineer</h3>
+
+- 🔭 I’m currently working on [Terrascope](https://www.terrascope.io/lander)
+
+- 🌱 I’m currently learning **Go, LLMs**
+
+- 💬 Ask me about **Python, Django, DRF, FastAPI**
+
+- 📫 How to reach me **muizkhan27@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 ## 🌐 Socials:
