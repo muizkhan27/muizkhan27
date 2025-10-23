@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="center"><br><img src="https://capsule-render.vercel.app/api?text= Hello World 🕹️ &animation=fadeIn&type=waving&color=gradient&height=100"></p></img><br></p>
+<p align="center"><br><img src="https://capsule-render.vercel.app/api?text= Hello World 🕹️ &animation=fadeIn&type=waving&color=gradient&height=100"></p></img></br>
 <h1 align="center">Hi 👋, I'm Muiz khan</h1>
 <h3 align="center">A Versatile Software Engineer</h3>
 
